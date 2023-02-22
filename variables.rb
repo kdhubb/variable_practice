@@ -14,3 +14,10 @@ fourteeners_badge = false
 passed_obedience_class = false
 is_adorable = true
 
+email = "captainwolfgang@gmail.com"
+username = "captainwolfers3"
+profile_tagline = "Chaser of prairie dogs."
+
+puts email
+puts account_balance
+puts is_adorable
